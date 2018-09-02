@@ -1,6 +1,6 @@
 {
-  "name": "drawjs",
-  "version": "0.1.0",
+  "name": "ts-draw",
+  "version": "0.0.0",
   "description": "",
   "main": "draw.js",
   "scripts": {
