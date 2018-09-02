@@ -1,0 +1,21 @@
+{
+  "name": "drawjs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "draw.js",
+  "scripts": {
+    "start": "Draw.js is a basic 2d canvas graph library, which is under development currently."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drawjs/draw"
+  },
+  "bugs": {
+    "url": "https://github.com/drawjs/draw/issues"
+  },
+  "homepage": "https://github.com/drawjs/draw#readme",
+  "keywords": [ "draw", "drawjs" ],
+  "author": "",
+  "license": "ISC"
+}
+
